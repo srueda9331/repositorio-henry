@@ -1,0 +1,24 @@
+Respuesta Pregunta N°1
+DEFINICIONES:
+1. Variables:
+    Una variable es un espacio en la memoria que me sirve para introducir un valor, como un
+    número, un string o un booleanos.
+
+2. String:
+    Son bloques de texto que el lenguaje interpreta bien si se encierran en comillas, el texto 
+    libre que se desee escribir.
+
+3. Funciones(Argumentos, return):
+    Es un objeto que hace parte de los "objetos invocables", es decir código que se 
+    declara al cual se le pasan los argumentos al interior de las llaves para retornar
+    un resultado.
+
+4. Declaraciones if:
+    Es una instrucción que se dá para verificar si al comparar una cosa con otra mediante 
+    operadores de flujo y comparación, ver si en efecto se cumple la condición, si se 
+    cumple retorna true y si no pasa de largo el código y me arroja false.
+
+5.Valores booleanos (true, false):
+    Es un concepto que alimenta el código binario y el nucleo de las computadoras,
+    el sistema binario son cadenas de numeros 0 y 1, en js se usan para decir si algo es 
+    verdadero o falso, o también si está activado o desactivado.
