@@ -1,0 +1,24 @@
+Homework Javascript 2
+
+Solución pregunta N°1:
+Explicación for:
+    Un bucle o ciclo es una instrucción que se repite luego de pasar los argumentos dentro 
+    de los paréntesis, el primero es una variable que empieza en cero, después se le pasa una
+    condición para establecer un límite, y un contador va sumando una unidad cada vez que 
+    termina una iteración.
+
+Explicación &&:
+    Es un operador lógico que me indica que si dos expresiones son corectas y no tienen
+    fallos en su lógica arrojará verdadero, mientras que con una que no se cumpla devolverá
+    falso.
+
+Explicación ||:
+    Es un operador que consiste en que si hay dos expresiones y al menos una de ellas se cumple
+    el intérprete de javascript me devolverá un true.
+
+Explicación !:
+    Es un signo que me indica una negación, que algo es diferente a algo, en una comparación
+    podemos establecer lo siguiente ej. 10 == 10, lo cuál es correcto, pero si la expresión
+    anterior se encierra en parentesis precedido por ! significa que aunque lo de dentro sea
+    verdadero el signo ! va a negarlo entonces me devolverá un false.
+
