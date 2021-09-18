@@ -1,0 +1,8 @@
+Homework Javascript III
+
+Respuesta pregunta N°1:
+
+Array: Los arrays también conocidos arreglos o maatrices, son colecciones de datos almacenados 
+en una lista o indice que se guardan en una variable con los signos [] a los cuales 
+accedemos utilizando el numero según corresponda a cada elemento, el primer elemento aparecerá 
+con el número cero en la lista y el segundo con el 1 y así sucesivamente.
